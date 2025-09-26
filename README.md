@@ -21,4 +21,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsegundo-dev&layout=compact&theme=midnight-purple)
 
-![Snake animation](https://github.com/rsegundo-dev/blob/output/github-contibution-grid-snake.svg)
+![Snake animation](https://github.com/rsegundo-dev/rsegundo-dev/blob/output/github-contibution-grid-snake.svg)
