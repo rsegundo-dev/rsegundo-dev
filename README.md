@@ -24,7 +24,25 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsegundo-dev&layout=compact&card_width=500&theme=midnight-purple)
 </div>
 
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <!-- YOUTUBE -->
+  <a href="https://www.youtube.com/@rsegundo_dev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- INSTAGRAM -->
+  <!-- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  target="_blank"></a> -->
+  <!-- TWITCH -->
+  <a href="https://www.twitch.tv/rsegundodev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+  target="_blank"></a>
+  <!-- DISCORD -->
+  <a href="https://discord.gg/F3P8pRNknZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo-discord&logoColor=white" target="_blank"></a>
+  <!-- EMAIL -->
+  <a href="mailto:renatosegundo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/rsegundo/" target-"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin%logoColor=white" target="_blank"></a>
+</div>
 
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsegundo-dev/rsegundo-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsegundo-dev/rsegundo-dev/output/github-contribution-grid-snake.svg">
